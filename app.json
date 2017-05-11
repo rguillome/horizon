@@ -1,0 +1,17 @@
+{
+  "name": "horizon",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/docker"
+    }
+  ]
+}
